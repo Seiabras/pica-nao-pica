@@ -115,3 +115,10 @@ Pela regra 6 do linuarquivos, cada aparelho tem o seu layout, só com CSS (o mes
 | “Comece por aqui” | ladrilhos em 2 colunas | 2 × 2 | os 4 numa linha |
 | Abertura | texto e fotos em uma coluna | texto ao lado das fotos | texto ao lado das fotos, maior |
 
+## Fotos e interface nova (4/11/2026)
+
+36 dos 37 bichos do Pica ou Não Pica? têm foto real do Wikimedia Commons (CC0, CC BY, CC BY-SA ou domínio público),
+com a espécie conferida, e o crédito aparece em cada ficha (`img/bichos/creditos.json`). O carrapato ficou sem foto,
+porque não há foto de campo com identificação segura. A interface ganhou a abertura com quatro bichos e a resposta,
+o catálogo com miniaturas e os filtros recolhidos no celular, e a ficha com a foto ao lado do nome no computador. As
+páginas “Posso criar?” e “Teste rápido” voltaram a ter link em português.
