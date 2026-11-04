@@ -3,14 +3,14 @@
 > **In English:** a site for people who have never heard of Brazil's native stingless bees: they do not sting, where
 > they live, what to do when you find a nest and how to start keeping them. It came out of a Design Thinking
 > assignment (CEUB, 2026/2): a first version in Lovable, then rebuilt from scratch in HTML, CSS and JavaScript, in
-> 13 languages. Live: https://abelhas.linupedia.com.br
+> 13 languages. Live: https://picanaopica.linupedia.com.br
 
 Site para quem nunca ouviu falar das abelhas nativas do Brasil: mostra que elas não picam, onde vivem, o que fazer
 quando se encontra um ninho e como começar a criar. Nasceu na atividade de Design Thinking da disciplina de
 Desenvolvimento de Interfaces (CEUB, 2026/2): a partir da entrevista e do protótipo, gerei uma primeira versão no
 Lovable e depois refiz o site do zero em HTML, CSS e JavaScript.
 
-**No ar:** https://abelhas.linupedia.com.br
+**No ar:** https://picanaopica.linupedia.com.br (o endereço antigo, abelhas.linupedia.com.br, leva ao novo)
 
 ## Pica ou Não Pica? (1/11/2026)
 
