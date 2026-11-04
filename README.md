@@ -1,14 +1,14 @@
-# Abelhas sem Ferrão
+# Pica ou Não Pica?
 
-> **In English:** a site for people who have never heard of Brazil's native stingless bees: they do not sting, where
-> they live, what to do when you find a nest and how to start keeping them. It came out of a Design Thinking
-> assignment (CEUB, 2026/2): a first version in Lovable, then rebuilt from scratch in HTML, CSS and JavaScript, in
-> 13 languages. Live: https://picanaopica.linupedia.com.br
+> **In English:** a guide to Brazil's animals that sting, bite or burn, and the ones that only have the reputation:
+> how to recognize each of the 37, what to do if one gets you, and where to find antivenom. Live:
+> https://picanaopica.linupedia.com.br. It grew out of a Design Thinking assignment about native stingless bees
+> (CEUB, 2026/2), which still live inside it; the other 12 languages show that first site until the translation.
 
-Site para quem nunca ouviu falar das abelhas nativas do Brasil: mostra que elas não picam, onde vivem, o que fazer
-quando se encontra um ninho e como começar a criar. Nasceu na atividade de Design Thinking da disciplina de
-Desenvolvimento de Interfaces (CEUB, 2026/2): a partir da entrevista e do protótipo, gerei uma primeira versão no
-Lovable e depois refiz o site do zero em HTML, CSS e JavaScript.
+Guia para reconhecer os bichos do Brasil que picam, queimam ou só levam a fama, e saber o que fazer se picar. O
+repositório se chamava `abelhas-sem-ferrao` até 04/11/2026: o site nasceu na atividade de Design Thinking da disciplina
+de Desenvolvimento de Interfaces (CEUB, 2026/2), sobre as abelhas nativas sem ferrão. A partir da entrevista e do
+protótipo, gerei uma primeira versão no Lovable e depois refiz o site do zero em HTML, CSS e JavaScript.
 
 **No ar:** https://picanaopica.linupedia.com.br (o endereço antigo, abelhas.linupedia.com.br, leva ao novo)
 
@@ -82,7 +82,7 @@ no `localStorage` do navegador.
 O site está em 13 idiomas: português do Brasil na raiz e `/pt-pt/`, `/es/`, `/ca/`, `/nl/`, `/en/`, `/fr/`, `/de/`,
 `/it/`, `/intl/` (inglês internacional), `/ja/`, `/ko/` e `/zh-hant/`, com os outros idiomas no rodapé (o percurso e o teste respondem no idioma da página) e as
 alternativas de cada página para os buscadores. As páginas de cada idioma são geradas no repositório do
-[Linu Sites](https://github.com/Seiabras/linu-sites) (o modelo e os textos ficam em `ferramentas/estudo/abelhas-sem-ferrao/`); aqui ficam as
+[Linu Sites](https://github.com/Seiabras/linu-sites) (o modelo e os textos ficam em `ferramentas/estudo/pica-nao-pica/`); aqui ficam as
 páginas prontas. As frases que o script escreve vão num `<script type="application/json">` em cada página.
 
 ## Modo claro e escuro

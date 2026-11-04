@@ -1,7 +1,7 @@
 # Instruções para o Claude
 
 Projeto de estudo da disciplina de Desenvolvimento de Interfaces (CEUB, 2026/2), com o código aberto. O site no ar
-sai da cópia em `sitios/abelhas-sem-ferrao/` do `Seiabras/linu-sites`: mudou lá, traga para cá; mudou aqui, leve para lá. Siga
+sai da cópia em `sitios/pica-nao-pica/` do `Seiabras/linu-sites`: mudou lá, traga para cá; mudou aqui, leve para lá. Siga
 a política de segurança dos sites do Linu Sites: tudo vem do próprio endereço, sem CDN e sem estilo ou script dentro
 do HTML.
 
